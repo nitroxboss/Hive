@@ -42,3 +42,14 @@ Filters: 2+ bedrooms, 1+ bathrooms, 1,500+ sq ft, furnished, monthly, higher-end
 - **Unit 1404:** 1,386 sq ft | 2 bed / 2 bath | $3,995/month | FURNISHED. Spa bath, gas kitchen, move-in ready, 24-hr security.
 - **Unit 1207 (room listing):** 1,207 sq ft | 2 bed / 2 bath | $3,200/month | FURNISHED. Modern elegance, nestled in DTC.
 - **Other units (not explicitly furnished):** Unit 504 at 1,437 sq ft for $5,500; Unit 1205 at 1,504 sq ft for $5,450; Unit 6102 at 1,504 sq ft for $4,800; Unit 801 at 1,928 sq ft for $4,195.
+
+## 7. SouthGlenn Area — Centennial / Englewood
+SouthGlenn is thin for the strict criteria. Nothing fully meets 2BR + 1,500+ sqft + furnished + nice at a reasonable price. Closest options:
+
+- **300 E Fremont Pl, Centennial (Southglenn):** Furnished, 1-2 beds, 1-2 baths, $2,540-$2,995/month. Square footage not listed. Zumper verified listing.
+- **Cityscapes at Southcreek, Englewood:** Fully furnished 2 bed / 4 bath, 1,760 sq ft, $5,250/month. Utilities, Wi-Fi, water included. 30/60/90+ day stays. Private rooftop, multi-level, en-suite baths in both bedrooms. $300 one-time cleaning fee, 15-day notice to vacate. Trulia/Zillow listing, address undisclosed.
+- **2365 E Geddes Ave #I22, Centennial:** 2 bed / 1 bath, 1,031 sq ft, $2,800/month. Too small on square footage.
+- **6756 S Ivy St APT B1, Centennial:** 2 bed / 1 bath, 814 sq ft, $2,500/month. Too small.
+- **SouthGlenn Place (6651 S Vine St):** 2 bed / 1 bath but only 750 sq ft, $1,615-$2,038. Too small and not furnished.
+- **Portola At SouthGlenn (6851 S Gaylord St):** 2 bed / 2 bath townhome loft with den at 1,383 sq ft. Close but under 1,500. Not listed as furnished.
+- **Private furnished room near SouthGlenn (Furnished Finder):** 400 sq ft, single occupancy, $1,000/month. Does not meet criteria.
