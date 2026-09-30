@@ -1,6 +1,6 @@
 # Denver Metro Monthly Rentals — 2BR / 1+BA / 1500+ sqft / Furnished / Nice
 
-Filters: 2+ bedrooms, 1+ bathrooms, 1,500+ sq ft, furnished, monthly, higher-end but reasonable. Radius includes Denver and 20 minutes from Parker, CO.
+Filters: 2+ bedrooms, 1+ bathrooms, 1,500+ sq ft, furnished, monthly, higher-end but reasonable. Radius includes Denver and 20 minutes from Parker, CO. Search priority: listings with Tesla destination chargers or EV charging are ranked higher.
 
 ## 1. Sloan's Lake Duplex — Denver
 - **Link:** https://www.furnishedfinder.com/property/943815_1
@@ -43,13 +43,14 @@ Filters: 2+ bedrooms, 1+ bathrooms, 1,500+ sq ft, furnished, monthly, higher-end
 - **Unit 1207 (room listing):** 1,207 sq ft | 2 bed / 2 bath | $3,200/month | FURNISHED. Modern elegance, nestled in DTC.
 - **Other units (not explicitly furnished):** Unit 504 at 1,437 sq ft for $5,500; Unit 1205 at 1,504 sq ft for $5,450; Unit 6102 at 1,504 sq ft for $4,800; Unit 801 at 1,928 sq ft for $4,195.
 
-## 7. SouthGlenn Area — Centennial / Englewood
-SouthGlenn is thin for the strict criteria. Nothing fully meets 2BR + 1,500+ sqft + furnished + nice at a reasonable price. Closest options:
+## 7. Southglenn Area — Centennial / Littleton
+Nothing in Southglenn proper meets all filters (2BR, 1+BA, 1,500+ sqft, furnished). Closest furnished options:
+- **300 E Fremont Pl (Parkside at Littleton Village), Centennial 80122:** Landing furnished network. 2 bed / 2 bath, 1,224 sq ft, $2,515/month for 12-month stay including utilities and fees ($2,870 for 6-month). Min 1 month. Pet friendly, smoke-free, smart TVs, fast Wi-Fi. Does not meet sqft filter.
+- **2365 E Geddes Ave #I22, Centennial 80122:** 2 bed / 1 bath, 1,031 sq ft, $2,800/month. Does not meet sqft filter.
+- **6119 S Broadway #A, Littleton 80121:** 3 bed / 1 bath, 1,161 sq ft, $2,695/month. Does not meet sqft filter.
+- **Cityscapes at Southcreek, Englewood 80112 (address undisclosed):** 2 bed / 4 bath, 1,760 sq ft, $5,250/month, fully furnished, utilities/Wi-Fi/water included, $300 cleaning fee, 15-day notice. Meets sqft and bed/bath filters but is 4 baths and priced high.
+- **SouthGlenn Place, 6651 S Vine St, Centennial:** 2 bed / 1 bath, 750 sq ft, from $1,735. Unfurnished, does not meet filters.
+- **Portola at SouthGlenn, 6851 S Gaylord St, Centennial:** 2 bed / 2 bath townhome loft with den, 1,383 sq ft, from $3,737. Steps from Streets of SouthGlenn. Unfurnished.
 
-- **300 E Fremont Pl, Centennial (Southglenn):** Furnished, 1-2 beds, 1-2 baths, $2,540-$2,995/month. Square footage not listed. Zumper verified listing.
-- **Cityscapes at Southcreek, Englewood:** Fully furnished 2 bed / 4 bath, 1,760 sq ft, $5,250/month. Utilities, Wi-Fi, water included. 30/60/90+ day stays. Private rooftop, multi-level, en-suite baths in both bedrooms. $300 one-time cleaning fee, 15-day notice to vacate. Trulia/Zillow listing, address undisclosed.
-- **2365 E Geddes Ave #I22, Centennial:** 2 bed / 1 bath, 1,031 sq ft, $2,800/month. Too small on square footage.
-- **6756 S Ivy St APT B1, Centennial:** 2 bed / 1 bath, 814 sq ft, $2,500/month. Too small.
-- **SouthGlenn Place (6651 S Vine St):** 2 bed / 1 bath but only 750 sq ft, $1,615-$2,038. Too small and not furnished.
-- **Portola At SouthGlenn (6851 S Gaylord St):** 2 bed / 2 bath townhome loft with den at 1,383 sq ft. Close but under 1,500. Not listed as furnished.
-- **Private furnished room near SouthGlenn (Furnished Finder):** 400 sq ft, single occupancy, $1,000/month. Does not meet criteria.
+## EV Charging Priority
+Listings with Tesla destination chargers or EV charging are weighted higher in future searches. The Landmark's car charging station is a plus but not Tesla-specific. No Southglenn-area listing currently advertises a Tesla charger.
